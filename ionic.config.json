@@ -1,0 +1,7 @@
+{
+  "name": "Earthlings",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
